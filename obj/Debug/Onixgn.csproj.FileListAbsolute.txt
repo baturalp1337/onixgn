@@ -1,0 +1,11 @@
+C:\Users\batur\source\repos\Onixgn\bin\Debug\Onixgn.exe.config
+C:\Users\batur\source\repos\Onixgn\bin\Debug\Onixgn.exe
+C:\Users\batur\source\repos\Onixgn\bin\Debug\Onixgn.pdb
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.csproj.AssemblyReference.cache
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.csproj.SuggestedBindingRedirects.cache
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.menu.resources
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.Properties.Resources.resources
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.csproj.GenerateResource.cache
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.csproj.CoreCompileInputs.cache
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.exe
+C:\Users\batur\source\repos\Onixgn\obj\Debug\Onixgn.pdb
